@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(/imagenes/espacio-tiempo-se-fracturo.jpg);
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color:brown;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: brown;
+}
+.conocimientos {
+    justify-content: center;
+    text-align: center;
+}

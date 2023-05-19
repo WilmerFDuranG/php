@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
     <title>Document</title>
 </head>
@@ -14,7 +14,7 @@
     <div class="container">
 <div id="reg" style="display: display;">
 <div class="card">
-<h5 class="card-header">REGISTRO</h5>
+<h5 class="card-header titulo">REGISTRO</h5>
 <div class="card-body">
 <div class="container">
 <div class="row g-3">
@@ -59,7 +59,7 @@
 
 </div>
 
-<div class="col-md-12" style="justify-content:center">
+<div class="col-md-12 conocimientos" style="justify-content:center">
     <h2>Conocimientos: </h2>
         <label>
             <input type="checkbox" name="conocimientos[]" value="python">Python
